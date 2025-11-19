@@ -1,4 +1,4 @@
-# snake-rl-agent
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b54733c6-4df1-482d-9a33-b1e79fb1dbc8" /># snake-rl-agent
 
 # 🐍 Deep Q-Learning Snake AI  
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)]()
