@@ -20,6 +20,9 @@ The agent improves over time by:
 The entire training pipeline (environment, agent, model, trainer) is implemented manually to help understand RL fundamentals.
 
 ---
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/0O4_kOa5LJM/0.jpg)](https://youtu.be/0O4_kOa5LJM)
 
 
 ---
